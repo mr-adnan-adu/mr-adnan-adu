@@ -71,7 +71,7 @@
 
 <a href = "https://twitter.com/MR_ADNAN_ADU"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/a.d_n_a.n/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/@malayalamebooks"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/@malayalamebooks"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
