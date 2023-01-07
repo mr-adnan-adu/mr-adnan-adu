@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me [**TeleGRAM**}(https//t.me/MR_READERS)
+- 📫 How to reach me [**TeleGRAM**](https//t.me/MR_READERS)
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
